@@ -1,6 +1,6 @@
 # weedecide
 
-A new Flutter project.
+An Android Application to classify different types of weeds on an irrigated ricefield.
 
 ## Getting Started
 
