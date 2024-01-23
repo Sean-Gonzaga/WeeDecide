@@ -1,6 +1,8 @@
-# weedecide
+# WeeDecide
 
-An Android Application to classify different types of weeds on an irrigated ricefield.
+An Android Application that can classify different types of weeds on an irrigated ricefield using TensorFlow.
+
+Scope: 5 weeds
 
 ## Getting Started
 
